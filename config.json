@@ -2,7 +2,7 @@
     "nav_head" : {"text": "Boat on the Sea", "href": "#"},
     "nav_bars" : [
         {"text" : "Home", "href" : "#/Home"},
-        {"text" : "ZOE", "href" : "#/zoe.html"},
+        {"text" : "ZOE", "href" : "/zoe.html"},
         {"text" : "Resume", "href" : "#/Resume"}
     ]
 }
