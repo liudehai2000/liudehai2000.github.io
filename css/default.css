@@ -94,6 +94,9 @@ body {
   z-index: 10;
   padding-bottom:120px;
 }
+.carousel-inner {
+ height: 100%;	
+}
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
@@ -102,7 +105,7 @@ body {
   text-align:center;
   height: 100%;
 }
-.carousel-inner > .item > img {
+.carousel-inner .item  img {
   height: 100%;
 }
 
