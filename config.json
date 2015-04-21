@@ -2,6 +2,6 @@
     "nav_head" : {"text": "Boat on the Sea", "href": "#"},
     "nav_bars" : [
         {"text" : "Home", "href" : "#/Home"},
-        {"text" : "嫁给德海吧", "href" : "/zoe.html"},
+        {"text" : "Marry Me", "href" : "/zoe.html"},
     ]
 }
